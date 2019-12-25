@@ -7,7 +7,7 @@ Durante o sonho, o corvo pisca diversas vezes e grita apenas 3 vezes. A cada gri
 
 Cada piscada do corvo comunica um número em binário. Um olho aberto significa 1 e um olho fechado significa 0. O olho da esquerda é o mais significativo e o da direita é o menos significativo. A cada piscada, este número deve ser somado, e quando o corvo grita, essa soma é um resultado.
 
-Entrada
+<b>Entrada</b><br>
 A entrada descreve, em cada linha, em sequência, ou um grito ou uma piscada do corvo.
 
 Um grito é representado pela string caw caw
@@ -18,5 +18,5 @@ Lembre-se que o corvo tem 3 olhos.
 
 Os números sorteados na loteria não excedem 1000.
 
-Saída
+<b>Saída</b><br>
 A saída são três linhas, cada linha com um número da loteria.

@@ -7,10 +7,10 @@ Há exatamente 26 lâmpadas penduradas na parede da sua sala, numeradas de 1 a 2
 
 Dada a letra associada a cada lâmpada e a ordem das lâmpadas que foram piscadas por Will, decifre a mensagem que ele enviou!
 
-Entrada
+<b>Entrada</b><br>
 A entrada contém vários casos de teste. A primeira linha de cada caso contém uma string de exatamente 26 letras maiúsculas contendo todas as letras do alfabeto inglês. A primeira letra da string está associada à lâmpada 1; a segunda letra está associada à lâmpada 2; e assim por diante. A próxima linha contém um inteiro N (1 ≤ N ≤ 104), o número de lâmpadas que foram piscadas. A terceira linha contém N inteiros li (1 ≤ li ≤ 26), indicando as lâmpadas que foram piscadas, em ordem.
 
 A entrada termina com fim-de-arquivo (EOF).
 
-Saída
+<b>Saída</b><br>
 Para cada caso de teste, imprima uma única linha contendo a mensagem enviada por Will.
