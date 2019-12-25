@@ -21,12 +21,12 @@ for (i = 0; i < totalPlantas; i++) {
 	if (pesoJacana + pesoComida > pesoSuportadoPlantas[i]) {
 		pesoComida = pesoComida - (pesoComida + pesoJacana - pesoSuportadoPlantas[i]);
 		if (pesoComida < 0)
-    		break;
+    			break;
 		if (i === 0)
-    		continue;
+    			continue;
 		comidaNasPlantas++;
 		if (pesoComida === 0)
-    		break;
+    			break;
 	}
 }
 console.log(comidaNasPlantas);
